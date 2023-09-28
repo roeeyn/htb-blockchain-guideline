@@ -1,4 +1,4 @@
-# Guideline
+# Guideline (directly from HTB)
 
 The purpose of this `README` is to provide guidance for first-time participants attempting to solve a blockchain challenge.
 
